@@ -3,5 +3,6 @@ target/*
 .classpath
 .project
 .idea
+*.sh
 *.iml
 /target
